@@ -1,3 +1,5 @@
 # Latent Flow Transformer
 
-TBA
+This is the official repository for the latent flow transformer. 
+
+The code will be released soon.
